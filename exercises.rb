@@ -30,8 +30,27 @@ names_and_ages = {
 }
 
 # puts films, cities, names_and_ages
-puts coin
-puts colours[0]
-puts ages.sort
-ages << 0
-puts films[:playtime]
+# puts coin
+# puts colours[0]
+# puts ages.sort
+# ages << 0
+# puts ages
+# puts films[:playtime]
+
+# puts colours.pop
+# cities[:tokyo] = "13 million"
+# puts cities
+# coin.reverse
+# puts coin.reverse
+# puts cities[:new_york]
+# artists.each do |artist|
+#   puts "today i listened to #{artist}"
+# end
+# puts artists[0, 2]
+#
+# films.each do |film, year|
+#   puts "#{film} was released in #{year}"
+# end
+# puts ages.sort.reverse
+films[:beauty_and_the_beast] = 1991, 2017
+puts films
