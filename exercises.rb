@@ -30,3 +30,8 @@ names_and_ages = {
 }
 
 # puts films, cities, names_and_ages
+puts coin
+puts colours[0]
+puts ages.sort
+ages << 0
+puts films[:playtime]
