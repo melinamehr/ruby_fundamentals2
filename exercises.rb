@@ -120,12 +120,41 @@ puts newage
 
 colours.push("red", "orange")
 puts colours
+#
+# # Exercise 6
+#
+# # years = {
+# #   '1999' => ["The Matrix", "Star Wars: Episode 1", "The Mummy"]
+# #   '2009' => ["Avatar", "Star Trek", "District 9"]
+# #   '2019' => ["How to Train Your Dragon 3", "Toy Story 4", "Star Wars: Episode 9"]
+# # }
+# #
+# # phone = [[1, 2, 3], [4, 5, 6], [7, 8, 9], [*, 0, "#"]]
+# #
+# # info = [
+# #   { name: "canada" continent: "north america" island: "no" }
+# #   { name: "mexico" continent: "north america" island: "no" }
+# #   { name: "spain"  continent: "europe"        island: "no" }
+# # ]
+# #
+# # 20.times do
+# #   puts "I will not skateboard in the halls"
+# # end
+# #
+# # bart = []
+# # 20.times do
+# #   bart.push("I will not skateboard in the halls")
+# # end
+# # puts bart
 
-# Exercise 6
+numbers = 1..50
+puts numbers.to_a
 
+numbers = 1..50
+numbers.each do |number|
+  numbers +=
+end
+puts numbers
 
-years = {
-  :1999 => "The Matrix", "Star Wars: Episode 1", "The Mummy"
-  :2009 => "Avatar", "Star Trek", "District 9"
-  :2019 => "How to Train Your Dragon 3", "Toy Story 4", "Star Wars: Episode 9"
-}
+numbers = 1..50
+  numbers.time do |repeat|
